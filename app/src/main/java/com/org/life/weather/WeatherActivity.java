@@ -11,7 +11,7 @@ import android.widget.TextView;
 
 import com.org.life.weather.gson.Weather;
 import com.org.life.weather.util.Utility;
-
+//https://console.heweather.com/app/index#
 public class WeatherActivity extends AppCompatActivity {
 
     private ScrollView weatherLayout;
